@@ -1,5 +1,7 @@
 # JobFit Architecture
 
+![JobFit Architecture System Context](c4-sys-context.png)
+
 A platform for job fit evaluation and virtual interviews, leveraging a closed, persistent LLM context based on a professional profile.
 
 ## Overview
